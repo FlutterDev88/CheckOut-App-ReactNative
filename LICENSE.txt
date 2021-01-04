@@ -1,0 +1,15 @@
+#
+# SpryHQ LLC
+#
+# Copyright (©) 2020 Richard Hoop/SpryHQ LLC All Rights Reserved
+#
+# !!THIS IS UNPUBLISHED PROPRIETARY AND CONFIDENTIAL SOURCE CODE!!
+#
+# The copyright notice above does not provide evidence of any
+# actual or intended publication of such source code.
+#
+# Redistribution and use in source and binary forms,
+# with or without modification is STRICTLY PROHIBITED!
+#
+# Unauthorized copying of this file, via any medium is strictly prohibited
+#
