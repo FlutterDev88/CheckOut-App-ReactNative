@@ -22,7 +22,7 @@ const App = props => {
   return (
     <Provider store={reduxStore}>
       <AppearanceProvider>
-        <StatusBar />
+        // <StatusBar />
         <AppNavigator screenProps={{ theme: colorScheme }} />
       </AppearanceProvider>
     </Provider>
